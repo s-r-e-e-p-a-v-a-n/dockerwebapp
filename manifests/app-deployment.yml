@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: cont-1
-          image: sreepavan10/devopsapp:appimage
+          image: sreepavan10/devopsapp:appimages
           ports:
             - containerPort: 8080
       
